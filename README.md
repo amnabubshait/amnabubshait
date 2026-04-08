@@ -4,7 +4,8 @@ I'm a computer engineer with a strong passion for technology and innovation. I e
 
 My interests include software development, robotics, hardware, and artificial intelligence, and I’m always eager to learn new skills and technologies that can help me grow as a developer.
 
-## 💻 Skills:
+## 💻 Skills
+
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%239146FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -23,9 +24,11 @@ My interests include software development, robotics, hardware, and artificial in
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
 
 ## 📫 Connect with Me
+
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amnaabubshait@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-bubshait-842778284)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=amnabubshait&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amnabubshait&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=amnabubshait&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
